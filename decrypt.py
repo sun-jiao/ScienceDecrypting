@@ -117,8 +117,8 @@ def decrypt_file(src, dest):
     temp_fp = tempfile.TemporaryFile()
 
     # fix pdf format
-    src_fp.seek(eof_offset - 40, os.SEEK_SET)
-    content = src_fp.read(40)
+    src_fp.seek(eof_offset - 80, os.SEEK_SET)
+    content = src_fp.read(80)
     m = re.search(rb'startxref\s+(\d+)\s', content)
     if not m:
         raise CustomException("unable to find xref")
