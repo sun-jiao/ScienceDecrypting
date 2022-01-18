@@ -4,7 +4,7 @@
 
 破解CAJViewer加有效期限制的文档，无损转为普通PDF格式文件，保留文字和目录，支持解密以下网站下载的文档：
 - 科学文库 ( https://book.sciencereading.cn )
-- 国家标准全文数据库 ( https://kns.cnki.net/kns8?dbcode=CISD / https://www.spc.org.cn/ )
+- 国家标准全文数据库 ( https://kns.cnki.net/kns8?dbcode=CISD )
 - 其他，待验证...
 
 ## Usage
@@ -35,4 +35,7 @@ Example: python3 decrypt.py -i test.pdf -o test_dec.pdf
 ```
 
 ## 科学文库图书下载
-大部分图书都可以通过国家[图书馆读者云门户](http://read.nlc.cn/outRes/outResList?type=%E7%94%B5%E5%AD%90%E5%9B%BE%E4%B9%A6)进行下载，少量无法下载的图书如果迫切需要可以提issue。
+大部分图书都可以通过[国家图书馆读者云门户](http://read.nlc.cn/outRes/outResList?type=%E7%94%B5%E5%AD%90%E5%9B%BE%E4%B9%A6)进行下载，少量无法下载的图书如果迫切需要可以提 issue 或在 Gitter 聊天室中寻求帮助。
+
+## 交流群
+[Gitter 聊天室](https://gitter.im/ScienceDecrypting/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
