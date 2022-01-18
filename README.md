@@ -1,4 +1,7 @@
 ## Description
+
+[![Join the chat at https://gitter.im/ScienceDecrypting/community](https://badges.gitter.im/ScienceDecrypting/community.svg)](https://gitter.im/ScienceDecrypting/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 破解CAJViewer加有效期限制的文档，无损转为普通PDF格式文件，保留文字和目录，支持解密以下网站下载的文档：
 - 科学文库 ( https://book.sciencereading.cn )
 - 国家标准全文数据库 ( https://kns.cnki.net/kns8?dbcode=CISD / https://www.spc.org.cn/ )
